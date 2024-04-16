@@ -1,0 +1,13 @@
+.ih1{ text-align: center;
+height: auto;
+width: auto;
+}
+body{
+    text-align: center;
+    background-color: turquoise;
+}
+.par{
+    text-align: center;
+    text-decoration-line: line-through;
+    text-shadow: floralwhite;
+}

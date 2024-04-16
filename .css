@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.im1 {
+    height: 500px;;
+    width: 1200px;
+}
+.l1{
+    text-align: center;
+    color: red;
+    
+}
+body{
+    text-align: center;
+    background-color: black;
+
+}
+.div{
+    padding: 0%;
+    margin: 0%;
+}
+.navegador{
+    margin-top: 10px;
+    list-style:none;
+    padding-left: 0%;
+}
+.lista{
+ list-style: none;
+
+}
+.lista{  display: inline-block;
+
+}
+.lista{
+    list-style: none;
+}
+.lista{
+    display: inline-block;
+
+}
+.lista{
+    color: white;
+    padding: 8px;
+    border-radius: 2px;
+    text-decoration: none;
+    display: inline-blockS;
+}
+.lista a:hover{
+    color: red;
+}
+.lista a:active{
+    color: red;
+}
+.lista a::after{
+    content: " | ";
+    
+}
